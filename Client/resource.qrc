@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Client.pro</file>
+        <file>img/a.jpg</file>
+        <file>img/LB.png</file>
+        <file>img/HX.png</file>
+        <file>img/JZ.png</file>
+        <file>img/LG.png</file>
+        <file>img/MK.png</file>
+        <file>img/MY.png</file>
+        <file>img/XY.png</file>
+        <file>img/ZY.png</file>
+        <file>img/hz.jpg</file>
+        <file>img/JP.png</file>
+        <file>img/TP.png</file>
+        <file>img/YP.png</file>
+    </qresource>
+</RCC>
